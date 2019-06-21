@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"boilerplateuserlogin32d5f46f": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

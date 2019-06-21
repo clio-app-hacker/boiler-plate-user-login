@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "boilerplateuserlogin-dev-20190621093103-authRole",
+            "UnauthRoleArn": "arn:aws:iam::385586552171:role/boilerplateuserlogin-dev-20190621093103-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::385586552171:role/boilerplateuserlogin-dev-20190621093103-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "boilerplateuserlogin-dev-20190621093103-deployment",
+            "UnauthRoleName": "boilerplateuserlogin-dev-20190621093103-unauthRole",
+            "StackName": "boilerplateuserlogin-dev-20190621093103",
+            "StackId": "arn:aws:cloudformation:us-east-1:385586552171:stack/boilerplateuserlogin-dev-20190621093103/f90bb570-9441-11e9-8f60-12dffdf25cac"
+        },
+        "categories": {
+            "auth": {
+                "boilerplateuserlogin32d5f46f": {}
+            }
+        }
+    }
+}
