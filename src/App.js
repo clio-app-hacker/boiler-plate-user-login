@@ -13,12 +13,10 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <Router>
-          <Home path="/" />
-          <Dashboard path="dashboard" />
-        </Router>
-      </div>
+      <Router>
+        <Home path="/" />
+        <Dashboard path="dashboard" />
+      </Router>
     );
   }
 }
